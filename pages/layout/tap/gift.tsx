@@ -9,7 +9,8 @@ export default function Gift() {
                 <Button>쇼핑하기</Button>
 
             </Stack>
-            <Box>선물하기 내용<Box />
-            </Box>
-    </>    
+            <Box>선물하기 내용/</Box>
+            
+         </Box>
+    </>
 }

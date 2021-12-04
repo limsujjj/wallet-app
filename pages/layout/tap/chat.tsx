@@ -1,10 +1,9 @@
-import { Button, Box, Stack } from "@mui/material";
+import { Box } from "@mui/system";
 import React from "react";
+
 
 export default function Chat() {
     return <>
-        <Box sx={{ flexGrow: 1 }}>
-            <Box>채팅<Box />
-            </Box>
+    <Box>chattttttttt</Box>
     </>
 }
